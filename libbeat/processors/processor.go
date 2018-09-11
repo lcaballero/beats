@@ -118,6 +118,7 @@ func (procs *Processors) Run(event *beat.Event) *beat.Event {
 
 		if event == nil {
 			// drop event
+
 			return nil
 		}
 	}
