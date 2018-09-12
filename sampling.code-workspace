@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "filebeat"
+		},
+		{
+			"path": "libbeat"
+		}
+	]
+}
